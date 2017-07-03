@@ -1,0 +1,4 @@
+git a 檔案名稱
+git cm "檔案commit描述"
+git remote a origin https://github.com/hoyen2017SummerProgram/aa0703
+git push -u origin master
